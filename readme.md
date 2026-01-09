@@ -14,7 +14,6 @@
 
 - [视频1](https://www.bilibili.com/video/BV1BHmzBtEjP)
 
-```
 ---
 
 ## 2. 环境准备与安装
